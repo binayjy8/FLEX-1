@@ -3,4 +3,6 @@
     width: 100px;
     background-color: bisque;
     border: 2px solid yellowgreen;
+    margin: 10px;
+    display: flex;
 }
