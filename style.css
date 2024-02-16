@@ -4,6 +4,7 @@
     background-color: bisque;
     border: 2px solid yellowgreen;
     margin: 10px;
-    display: flex;
+    display: inline-block;
     border-radius: 50%;
+    justify-content: center;
 }
