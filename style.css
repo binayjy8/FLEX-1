@@ -6,5 +6,5 @@
     margin: 10px;
     display: inline-block;
     border-radius: 50%;
-    margin-left: 50%;
+    flex-direction: row end;
 }
